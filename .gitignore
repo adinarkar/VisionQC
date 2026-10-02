@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+frontend/dist/
+data/**
+!data/.gitkeep
+models/**
+!models/.gitkeep
+*.sqlite3
+*.ckpt
+*.onnx
